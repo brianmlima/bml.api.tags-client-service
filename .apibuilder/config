@@ -1,0 +1,10 @@
+# Generated with apibuilderproject.rb at 25/09/2019 11:28:28
+settings:
+  code.create.directories: true
+code:
+  bml:
+    tags-client-service:
+      version: 0.0.1
+      generators:
+        openapi:
+          target: src/main/resources/tags-client-service
